@@ -25,7 +25,7 @@ In my opinion, programming gives you a chance to earn money with your brain and 
 - PSUTI student
 - SBERBANK & INTEL "Delta Courses"
 - GODNOKOD "Unity game dev"
-- Elementary art educatuion
+- Elementary art and design educatuion
  
 ## English:
 I studied at **"Englishburgh"** about ~2 years.
