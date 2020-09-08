@@ -1,0 +1,38 @@
+body
+{
+	display: flex;
+	justify-content: center;
+	font-family: 'Roboto Mono', monospace;
+}
+header
+{
+	display: flex;
+	justify-content: space-between;
+	border-bottom:solid 2px;
+	font-size: 30px;
+}
+section
+{
+	display: block;	
+	background-color: #E5E5E5;
+	padding: 0 10px;
+}
+section a,
+p
+{
+	display: inline-block;
+	text-decoration: none;
+	color: #000;
+	font-size: 24px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+li
+{
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-size: 24px;
+}
+img { width: 500px; }
+.wrapper { width: 1024px; }
+section a:hover { color: #6B6B6B; }
